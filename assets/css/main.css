@@ -1,0 +1,133 @@
+body {
+    font-family: Helvetica Neue;
+}
+
+.form-control placeholder {
+    font-family: Helvetica Neue;
+    font-size: 18px !important;
+    color: #526464 !important;
+}
+
+.cus-btn-search {
+    background-color: #3380f2 !Important;
+    color: white !important;
+}
+
+.form-control {
+    font-size: 18px !important;
+}
+
+.logo {
+    height: auto;
+    width: 150px;
+}
+
+.full-width img {
+    width: 100vw;
+}
+
+.full-width {
+    max-width: 100%;
+    margin-left: unset !important;
+}
+
+@media only screen and (min-width: 700px) {
+    .cus-search-form {
+        padding-left: 35px;
+    }
+
+    .txt-p1-1 {
+        font-weight: bold;
+        font-size: 60px;
+        line-height: initial;
+    }
+
+    .txt-p1-2 {
+        font-weight: 500;
+        font-size: 36px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .txt-p1-1 {
+        font-weight: bold;
+        font-size: 40px;
+        line-height: initial;
+    }
+
+    .txt-p1-2 {
+        font-weight: 500;
+        font-size: 26px;
+    }
+}
+
+.left-side {
+    background-color: #f0faf7;
+
+}
+
+.left-side li>a {
+    font-weight: 500;
+    font-size: 21pt;
+    color: #526464;
+    margin-left: 20px;
+}
+
+.right-side {
+    background-color: #f7faf7;
+    padding: 30px !important;
+}
+
+.product-txt-1 {
+    font-weight: bold;
+    font-size: 21pt;
+    color: #526464;
+    margin-bottom: unset;
+}
+
+.product-txt-2 {
+    font-weight: 500;
+    font-size: 21pt;
+    color: #526464;
+    margin-bottom: unset;
+}
+
+.cus-card {
+    border-radius: 2.25rem !Important;
+}
+
+@media (min-width: 1000px) {
+    .cus-modal-dialog {
+        max-width: 1000px;
+        margin: 1.75rem auto;
+    }
+
+    .cus-modal-content {
+        padding: 20pt;
+    }
+
+}
+
+.cus-form-control {
+    height: calc(1.5em + .75rem) !important;
+}
+
+.dialog-txt-1 {
+    font-weight: 500;
+    font-size: 36pt;
+}
+
+.dialog-txt-2 {
+    font-weight: 500;
+    font-size: 24pt;
+}
+
+.dialog-txt-3 {
+    font-weight: 400;
+    font-size: 21pt;
+}
+
+.dialog-txt-4 {
+    font-weight: 400;
+    font-size: 12pt;
+}
