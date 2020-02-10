@@ -12,15 +12,15 @@
   </div>
   <div class="container mt-4 promotion">
     <div class="row">
-      <div class="col-md-12 col-lg-4 col-xs-12 mt-4 text-center" >
+      <div class="col-md-4 col-lg-4 col-xs-12 mt-4 text-center" >
           <img src="assets/img/clock.png" height="150px"/>
           <p class="txt-p1-2">Online anywhere</p>
       </div>
-      <div class="col-md-12 col-lg-4 col-xs-12 mt-4 text-center" >
+      <div class="col-md-4 col-lg-4 col-xs-12 mt-4 text-center" >
           <img src="assets/img/delivery-truck.png"  height="150px"/>
           <p class="txt-p1-2">Fast Delivery</p>
       </div>
-      <div class="col-md-12 col-lg-4 col-xs-12 mt-4 text-center" >
+      <div class="col-md-4 col-lg-4 col-xs-12 mt-4 text-center" >
           <img src="assets/img/support.png" height="150px"/>
           <p class="txt-p1-2">24/7 Support</p>
       </div>
