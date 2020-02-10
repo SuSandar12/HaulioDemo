@@ -26,6 +26,10 @@ body {
     width: 100vw;
 }
 
+.banner {
+    height: 57vw;
+}
+
 .full-width {
     max-width: 100%;
     margin-left: unset !important;
@@ -130,4 +134,16 @@ body {
 .dialog-txt-4 {
     font-weight: 400;
     font-size: 12pt;
+}
+
+.promotion {
+    background-color: white;
+
+    margin-top: 100vh;
+}
+
+.pos-fixed {
+    position: fixed;
+    z-index: -1;
+    top: 0;
 }
